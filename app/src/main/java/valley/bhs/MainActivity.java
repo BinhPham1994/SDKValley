@@ -2,10 +2,8 @@ package valley.bhs;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
 import valley.bhs.sdkvalley.R;
 
 public class MainActivity extends AppCompatActivity {
