@@ -6,7 +6,7 @@ import android.os.PersistableBundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.sdkvalley.R;
+import valley.bhs.sdkvalley.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override
