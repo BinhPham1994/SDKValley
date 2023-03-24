@@ -1,4 +1,4 @@
-package com.bhs.valley
+package valley.bhs.valley
 
 import org.junit.Test
 

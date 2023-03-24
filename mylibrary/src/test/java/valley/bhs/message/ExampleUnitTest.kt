@@ -1,4 +1,4 @@
-package com.example.mylibrary
+package valley.bhs.message
 
 import org.junit.Test
 

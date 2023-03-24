@@ -1,4 +1,4 @@
-package com.example.mylibrary;
+package valley.bhs.message;
 
 import android.content.Context;
 import android.widget.Toast;
