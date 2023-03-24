@@ -1,4 +1,4 @@
-package valley.bhs.valley;
+package valley.bhs;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
