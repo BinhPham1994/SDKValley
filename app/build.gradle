@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.sdkvalley'
+    namespace 'valley.bhs.sdkvalley'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.sdkvalley"
+        applicationId "valley.bhs.sdkvalley"
         minSdk 26
         targetSdk 33
         versionCode 1
