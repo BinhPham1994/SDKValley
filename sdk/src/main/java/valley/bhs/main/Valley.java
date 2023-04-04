@@ -1,5 +1,7 @@
 package valley.bhs.main;
 
+import org.json.JSONObject;
+
 public class Valley {
     public Valley(String username, String password) {
         this.username = username;
@@ -10,11 +12,11 @@ public class Valley {
         this.accessToken = accessToken;
     }
 
-
     public void connect() {
-
+        valleyListener.onSubmitForm();
     }
 
+    private ValleyListener valleyListener;
     private String username;
     private String password;
 
